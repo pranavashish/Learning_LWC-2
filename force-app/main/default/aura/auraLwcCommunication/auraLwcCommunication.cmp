@@ -1,0 +1,5 @@
+<aura:component implements="flexipage:availableForAllPageTypes">
+    <lightning:card title="Aura to LWC">
+        <div class="slds-p-around_medium"></div>
+    </lightning:card>
+</aura:component>	
